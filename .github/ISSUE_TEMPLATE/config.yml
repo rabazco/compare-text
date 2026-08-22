@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "\U0001F4DA Compare Text user documentation"
+    url: https://github.com/rabazco/compare-text
+    about: Documentation for users of Compare Text utilities
