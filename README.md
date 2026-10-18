@@ -52,6 +52,7 @@ Text comparison is performed entirely inside your device. Complete privacy. Keep
 - Premium Subscription (Managed AI): Full, immediate access with managed keys requiring no setup, plus support for your own API keys.
 
 🗃️ Reports and History
+
 Save your findings and AI-generated analysis reports in professional formats (HTML, plain text, and JSON). Access your analysis history at any time to retrieve previous comparisons.
 
 Fully customizable, featuring a simple, accessible, and intuitive interface.
